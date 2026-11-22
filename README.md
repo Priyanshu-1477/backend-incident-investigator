@@ -391,20 +391,6 @@ Healthy environments and unsupported failures will also be tested to check wheth
 
 Results will be published after implementation and testing.
 
-## Roadmap
-
-- [ ] Build the demo FastAPI application and PostgreSQL environment.
-- [ ] Add reproducible failure scenarios.
-- [ ] Implement diagnostic tools and structured results.
-- [ ] Add investigation storage and execution events.
-- [ ] Implement the bounded agent loop.
-- [ ] Expose investigation and history APIs.
-- [ ] Add versioned remediation proposals and approval decisions.
-- [ ] Implement supported remediation actions.
-- [ ] Add functional recovery verification.
-- [ ] Evaluate supported, healthy and unresolved scenarios.
-- [ ] Publish setup instructions and a demonstration.
-
 ## Running Locally
 
 Setup instructions and environment-variable documentation will be added with the first runnable implementation.
